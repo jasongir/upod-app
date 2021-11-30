@@ -1,5 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View, Pressable } from "react-native";
+import ExampleComponent from "../components/ExampleComponent";
 
 const Onboarding = ({ navigation }) => {
 	const nextPress = () => {
@@ -11,6 +12,7 @@ const Onboarding = ({ navigation }) => {
 			<Pressable onPress={nextPress} style={styles.buttonStyles}>
 				<Text>next screen</Text>
 			</Pressable>
+			<ExampleComponent />
 		</View>
 	);
 };
