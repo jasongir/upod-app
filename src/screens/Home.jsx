@@ -1,6 +1,8 @@
 import React from "react";
 import { StyleSheet, Text, View, Pressable } from "react-native";
 
+import NavBar from "../components/NavBar";
+
 const Home = ({ navigation }) => {
 	const nextPress = () => {
 		navigation.navigate("AdventureDetail");
@@ -17,6 +19,7 @@ const Home = ({ navigation }) => {
 			<Pressable onPress={prevPress} style={styles.buttonStyles}>
 				<Text>prev screen</Text>
 			</Pressable>
+			<NavBar />
 		</View>
 	);
 };
