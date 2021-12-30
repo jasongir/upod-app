@@ -6,11 +6,17 @@ const Onboarding = ({ navigation }) => {
 	const nextPress = () => {
 		navigation.navigate("Signup");
 	};
+	const prevPress = () => {
+		navigation.goBack();
+	};
 	return (
 		<View style={styles.container}>
 			<Text>Onboarding page</Text>
 			<Pressable onPress={nextPress} style={styles.buttonStyles}>
 				<Text>next screen</Text>
+			</Pressable>
+			<Pressable onPress={prevPress} style={styles.buttonStyles}>
+				<Text>prev screen</Text>
 			</Pressable>
 			<ExampleComponent />
 		</View>
