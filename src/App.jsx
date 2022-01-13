@@ -11,6 +11,7 @@ import PreferredLanguage from "./screens/CreateAccount/PreferredLanguage";
 import CreateAccount from "./screens/CreateAccount/CreateAccount";
 import AboutYou from "./screens/CreateAccount/AboutYou";
 import Hi from "./screens/CreateAccount/Hi";
+import TellUsAboutYourself from "./screens/CreateAccount/TellUsAboutYourself";
 
 const Stack = createNativeStackNavigator();
 
@@ -27,7 +28,8 @@ function App() {
 				<Stack.Screen name="PreferredLanguage" component={PreferredLanguage} />
 				<Stack.Screen name="CreateAccount" component={CreateAccount} />
 				<Stack.Screen name="AboutYou" component={AboutYou} />
-				{/* <Stack.Screen name="Hi" component={Hi} /> */}
+				<Stack.Screen name="Hi" component={Hi} />
+				<Stack.Screen name="TellUsAboutYourself" component={TellUsAboutYourself} />
 				<Stack.Screen name="Onboarding" component={Onboarding} />
 				<Stack.Screen name="Login" component={Login} />
 				<Stack.Screen name="Signup" component={Signup} />

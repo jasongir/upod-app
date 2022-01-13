@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f26f801f-53ff-48d5-93b0-5e367794c80a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/CreateAccount/AboutYou.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CreateAccount/AboutYou.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/CreateAccount/Hi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CreateAccount/Hi.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21fHHCEZ0zfuoX6qePootiE1J4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f26f801f-53ff-48d5-93b0-5e367794c80a" name="Default Changelist" comment="" />
+      <created>1638325132387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638325132387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640716629870">
+      <screen x="0" y="25" width="1440" height="822" />
+    </state>
+    <state x="369" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.822@0.25.1440.822" timestamp="1640716629870" />
+    <state x="-1300" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.826/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1638325213495" />
+    <state x="428" y="125" width="877" height="490" key="AVDManager" timestamp="1641493277280">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="428" y="125" width="877" height="488" key="AVDManager/0.25.1440.822@0.25.1440.822" timestamp="1640717264657" />
+    <state x="428" y="125" width="877" height="490" key="AVDManager/0.25.1440.823/-1920.25.1920.1055@0.25.1440.823" timestamp="1641493277280" />
+    <state x="-1349" y="153" width="1169" height="626" key="AVDManager/0.25.1440.826/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1638326283586" />
+    <state x="428" y="131" width="877" height="520" key="AVDManager/0.25.1440.875/-1920.25.1920.1003@0.25.1440.875" timestamp="1641424671023" />
+    <state x="239" y="84" key="SettingsEditor" timestamp="1641423946873">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="239" y="84" key="SettingsEditor/0.25.1440.875/-1920.25.1920.1003@0.25.1440.875" timestamp="1641423946873" />
+    <state x="611" y="172" key="run.anything.popup" timestamp="1641493268264">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="611" y="172" key="run.anything.popup/0.25.1440.823/-1920.25.1920.1055@0.25.1440.823" timestamp="1641493268264" />
+    <state x="-1100" y="211" key="run.anything.popup/0.25.1440.826/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1638325205032" />
+  </component>
+</project>
